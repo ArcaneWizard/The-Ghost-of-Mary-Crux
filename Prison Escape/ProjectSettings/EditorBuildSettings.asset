@@ -1,0 +1,47 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Counter.unity
+    guid: 5a7f73f9793e3894a89178eaf2e2d1de
+  - enabled: 1
+    path: Assets/Scenes/Room 1.unity
+    guid: 81fa41d11b383444d8589738af5de7f9
+  - enabled: 1
+    path: Assets/Scenes/Room 2.unity
+    guid: 8fde529d3a00e764d8f00ec59ad44b43
+  - enabled: 1
+    path: Assets/Scenes/Room 3.unity
+    guid: a41efd18adea62a44905d56d89fff8db
+  - enabled: 1
+    path: Assets/Scenes/Room 4.unity
+    guid: 0ae1308f65e044844a06c6a3066eaef9
+  - enabled: 1
+    path: Assets/Scenes/Room 5.unity
+    guid: ef9c47b2f0b8861418f9425c6d348e04
+  - enabled: 1
+    path: Assets/Scenes/Room 6.unity
+    guid: 32d5f32aad22b6a41942f5908bb080fc
+  - enabled: 1
+    path: Assets/Scenes/Room 7.unity
+    guid: f15806c86d60d9b4e962dd65a81118a7
+  - enabled: 1
+    path: Assets/Scenes/Room 8.unity
+    guid: fda42da6ddf0a3243b403aa9b7659975
+  - enabled: 1
+    path: Assets/Scenes/Room 9.unity
+    guid: c363cf6e1cac9a14dbae84adef44d90e
+  - enabled: 1
+    path: Assets/Scenes/Room 10.unity
+    guid: 112fad4a38da4de47a672fc7da1d04bc
+  - enabled: 1
+    path: Assets/Scenes/Room 11.unity
+    guid: 1e3bb33a0e437a745a58132d34b292d4
+  - enabled: 1
+    path: Assets/Scenes/Room 12.unity
+    guid: a14d3165719b35f4f908de4ea69aab17
+  m_configObjects: {}
